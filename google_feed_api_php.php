@@ -1,6 +1,6 @@
 <?php
 
-$feed_url = "http://feeds.feedburner.com/thisministrynet";
+//$feed_url = "http://feeds.feedburner.com/thisministrynet";
 $feed_url = "http://feeds.feedburner.com/LaterBoy";
 $url = "https://ajax.googleapis.com/ajax/services/feed/load?" .
        "v=1.0&q=".$feed_url."&userip=INSERT-USER-IP&num=10";
